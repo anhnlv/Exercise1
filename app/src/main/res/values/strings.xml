@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise 1</string>
+    <string name="location_permission_title">Use your location</string>
+    <string name="location_permission_des">The app needs location permission to work</string>
+    <string name="location_permission_ok">OK</string>
+    <string name="location_permission_cancel">Cancel</string>
+
+    <string name="no_location">Oops…\nLocation not found\n Click here to reload!!!</string>
+    <string name="tv_location">%1$s\n%2$s</string>
+</resources>
